@@ -1,0 +1,4 @@
+PyQt6>=6.4
+pydub>=0.25.1
+pygame>=2.1.0
+audioop-lts>=0.2.0; python_version >= "3.13"
